@@ -1,0 +1,11 @@
+torch
+numpy
+h5py
+matplotlib
+scikit-learn
+onnx
+onnxruntime
+onnxscript  # required by torch>=2.13's torch.onnx.export
+pytest
+kagglehub==0.3.5
+h5py==3.11.0

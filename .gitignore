@@ -1,0 +1,15 @@
+python/data/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.onnx
+*.onnx.data
+*.pt
+*.pth
+checkpoints/
+cpp/build/
+cpp/third_party/
+cpp/data/*.bin
+.venv/
+.vscode/
+.DS_Store
